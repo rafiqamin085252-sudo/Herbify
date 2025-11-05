@@ -1252,6 +1252,8 @@ section,
 .team .team-member .member-img {
   position: relative;
   overflow: hidden;
+  width: 7cm;
+  height: 8cm;
 }
 .team .kating {
   
